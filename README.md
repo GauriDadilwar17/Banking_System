@@ -16,3 +16,8 @@ File Persistence: Account details are saved in Bank.data for future sessions.
 Exception Handling: Prevents withdrawals below the minimum balance (500).
 Object-Oriented Design: Uses classes for Account and Bank to organize code efficiently.
 
+Feel free to fork the repository, add features, and submit pull requests.
+This project is for educational purposes and is open-source.
+
+
+
